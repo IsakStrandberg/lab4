@@ -5,7 +5,7 @@ using namespace std;
 
 void print(string THECAR) 
 {
-
+	//
 }
 
 motorVehicle::motorVehicle(float sizelnlitres, int numberOfCylinders, string color, float width, float height, string name, string address, bool allowedToDrive, float* tireDiameters, int numberOfTires, string model)
